@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Pip package template 👋</h1>
-<p>
+<h1 align="center">Welcome to pip package template 👋</h1>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />

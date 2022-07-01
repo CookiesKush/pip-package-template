@@ -48,7 +48,7 @@ python -m twine upload dist/*
 3. Run these commands 
 ```
 pip install -e .
-python setup.py sdist python setup.py 
+python setup.py sdist
 bdist_wheel --universal
 twine upload dist/*
 ```

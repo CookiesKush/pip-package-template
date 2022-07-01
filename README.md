@@ -37,6 +37,7 @@ python setup.py sdist
 python -m twine upload dist/*
 ```
 7. You will then be asked to enter your pypi account details once done u can view your package at the link given
+8. To use enter `from PACKAGE_NAME import *`
 
 
 
